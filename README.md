@@ -5,3 +5,7 @@ Where to get Cloud Ressources for free:\
 [Digital Ocean](https://cloud.digitalocean.com/registrations/new) 100€ for 60 days for new customers\
 [Google Cloud](https://google.secure.force.com/GCPEDU?cid=rpyL%2FTHhUJAvcXAxBCQczXpsSNkFq6dGYb7CVAG%2FgJ9wXdGbpXs2EZ4qt1nGxNXZ) request coupon until 1//22/2021 which will be valid until 9/22/2021 - need of UGR Account\
 [Oracle](https://www.oracle.com/cloud/free/) 300€ free for first 30days\
+
+## CC-Exercise Semana 2
+The exercises of the second week can be found [here](semana2)
+
