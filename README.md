@@ -7,5 +7,5 @@ Where to get Cloud Ressources for free:\
 [Oracle](https://www.oracle.com/cloud/free/) 300€ free for first 30days\
 
 ## CC-Exercise Semana 2
-The exercises of the second week can be found [here](semana2)
+The exercises of the second week can be found [here](semana2/ejercicios.md)
 
