@@ -28,7 +28,11 @@ Crear un volumen y usarlo, por ejemplo, para escribir la salida de un programa d
 
 ## Ejercicio 6:
 Reproducir los contenedores creados anteriormente usando un Dockerfile.
-
+![list content](imgs/Dockerfile1.png)
+![Dockerfile](imgs/Dockerfile2.png)
+![Build Docker Image](imgs/build_image.png)
+![list new image](imgs/image_list.png)
+![run new image](imgs/run_image.png)
 
 ## Ejercicio 7:
 Usar un miniframework REST para crear un servicio web y introducirlo en un contenedor, y componerlo con un cliente REST que sea el que finalmente se ejecuta y sirve como “frontend”.
